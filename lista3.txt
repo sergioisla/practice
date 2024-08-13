@@ -1,0 +1,4 @@
+.
+./lista.txt
+./lista3.txt
+./lista2.txt
